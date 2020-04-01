@@ -2,7 +2,7 @@
 
 Hyperkonvergente Infrastrukturen (HCI) kombinieren Speichersysteme und Rechenleistung in regul&auml;ren Servergeh&auml;usen. Damit geh&ouml;ren komplexe Speicherlandschaften und chaotische Serverschr&auml;nke der Vergangenheit an. Der Trick dabei: Die Hardware wird virtualisiert und in Software abgebildet. Diesen Software-defined Storage platziert Cisco auf seinen UCS-Servern und tauft die Idee __HyperFlex__.
 
-__Erh&auml;ltlich ab April 2020 als E-Book oder gedrucktes Buch.__
+__Erh&auml;ltlich seit April 2020 als E-Book oder gedrucktes Buch.__
 
 Ein Blick ins [Inhaltsverzeichnis](Inhaltsverzeichnis.md).
 
@@ -24,7 +24,7 @@ Dieses Buch ist der ideale Begleiter zum schnellen Verstehen von HyperFlex. Es r
 
 * Das [Korrekturverzeichnis](errata.pdf) listet die inhaltlichen Fehler und ihre Verbesserung.
 
-* Buch kaufen bei [Amazon](https://www.amazon.de/) oder [BoD](https://www.bod.de/buchshop/hyperflex-im-einsatz-markus-stubbig)
+* Buch kaufen bei [Amazon](https://www.amazon.de/dp/3750482144/) oder [BoD](https://www.bod.de/buchshop/cisco-hyperflex-im-einsatz-markus-stubbig-9783750482142)
 
 * Kontakt zum Autor per [E-Mail](mailto:hyperflex.im.einsatz@gmail.com)
 
